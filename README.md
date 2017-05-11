@@ -5,7 +5,7 @@ Payment processing solutions for organizations accepting card not present paymen
 
 * [https://github.com/LitleCo](https://github.com/litleco)
 ### Vantiv Integrated Payments
-Resources for developers and ISVs building integrated or semi-integrated point of sale solutions.  Vantiv’s Integrated Payments is comprised of two processing platforms, Element and MercuryPay.  Code repos for these platforms are available at:
+Resources for developers and ISVs building integrated or semi-integrated point of sale solutions.  Vantiv’s Integrated Payments is comprised of two processing platforms, Element and MercuryPay. These platforms also support eCommerce features. Code repos for these platforms are available at:
 
 * [https://github.com/ElementPS](https://github.com/ElementPS)
 * [https://github.com/MercuryPay](https://github.com/MercuryPay)
@@ -14,9 +14,9 @@ Vantiv Labs is a collection of repos that deal with experimental or forward look
 
 * [https://github.com/VantivLabs](https://github.com/vantivlabs)
 ### Vantiv O.N.E.
-Vantiv O.N.E. is Vantiv’s main developer portal. If you’re unsure where to start, this is probably a good place. 
+Vantiv O.N.E. is Vantiv’s main developer portal. If you’re unsure where to start, this is probably the right place. 
 
-In addition to the resources above, Vantiv O.N.E. provides information about Vantiv’s core processing platforms, resources for payment facilitators and mobile integration resources as well as complete developer documentation. 
+In addition to the resources above, Vantiv O.N.E. provides information about Vantiv’s core, large-scale processing platforms, resources for payment facilitators, mobile integration resources as well as complete developer documentation. 
 
 It also offers an active community where developers can participate, discuss technical issues, and keep abreast of new technologies related to payments.
 * [https://developer.vantiv.com](https://developer.vantiv.com)
