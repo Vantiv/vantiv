@@ -3,7 +3,7 @@
 ### Vantiv eCommerce
 Payment processing solutions for organizations accepting card not present payments over the internet or mobile devices.  Developer resources including language bindings / SDKs for .NET, Ruby, Java PHP and Python as well as XML resources and third party shopping cart integrations.
 
-* [https://github.com/LitleCo](https://github.com/litleco)
+* [https://github.com/vantiv-ecommerce](https://github.com/vantiv-ecommerce)
 ### Vantiv Integrated Payments
 Resources for developers and ISVs building integrated or semi-integrated point of sale solutions.  Vantiv’s Integrated Payments is comprised of two processing platforms, Element and MercuryPay. These platforms also support eCommerce features. Code repos for these platforms are available at:
 
